@@ -31,10 +31,7 @@
 
 > 💡 Este proyecto demuestra mejores prácticas en desarrollo web frontend, incluyendo código limpio, estructura semántica y optimización de performance.
 
-### Captura de Pantalla Principal
-```
-[INSERTAR CAPTURA DE PANTALLA PRINCIPAL AQUÍ - GIF o PNG]
-```
+
 
 ---
 
@@ -74,7 +71,7 @@ git --version     # Para clonar el repositorio
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/fredy80360/pagina-web-JFrivas.git
+git clone https://github.com/JFrivasIngCode/pagina-web-JFrivas.git
 
 # Navegar al directorio del proyecto
 cd pagina-web-JFrivas
@@ -157,18 +154,9 @@ pagina-web-jfrivas/
 2. **Abre `index.html`** en tu navegador o servidor local
 3. **Explora la página** y todas sus funcionalidades
 
-### Navegación Principal
 
-```
-Inicio → Características → Servicios → Contacto → Redes Sociales
-```
 
-### Demo en Línea
 
-```
-[INSERTAR ENLACE A PÁGINA EN VIVO]
-https://tu-dominio.com
-```
 
 ---
 
@@ -406,17 +394,7 @@ Añade en `<head>` de `index.html`:
 
 ---
 
-## 📸 Demostración Visual
 
-### Demo Interactivo
-```
-[INSERTAR SCREENSHOT O GIF DE DEMO AQUÍ]
-Muestra la página en acción con diferentes secciones
-```
-
-### Responsive Design
-```
-[INSERTAR IMAGEN MOSTRANDO MÚLTIPLES DISPOSITIVOS: MOBILE, TABLET, DESKTOP]
 ```
 
 ---
@@ -442,9 +420,9 @@ Queremos expresar nuestro reconocimiento a:
 ## 📞 Contacto
 
 **Correo Electrónico:** (mailto:fredyrivas0714@gmail.com)  
-**GitHub:** (https://github.com/fredy80360)  
+**GitHub:** (https://github.com/JFrivasIngCode)  
 **LinkedIn:** (https://linkedin.com/in/fredy-rivas-9b6a8b1b0)  
-**Sitio Web:** (https://www.JFrivas.com)
+**Sitio Web:** (https://jfrivasingcode.github.io/acerca-de-john-fredy-rivas/)
 
 ---
 
