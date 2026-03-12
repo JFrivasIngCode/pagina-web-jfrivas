@@ -1,4 +1,10 @@
+
+
+<a name="inicio"></a>
+
 # JFrivas | Página Web Profesional
+
+
 
 ![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
@@ -25,7 +31,8 @@
 
 ---
 
-## 📝 Descripción
+## Descripción 
+
 
 **JFrivas** es una página web moderna y profesional desarrollada con tecnologías web estándar. Proporciona una plataforma visualmente atractiva y totalmente responsive, diseñada para ofrecer una experiencia de usuario excepcional en todos los dispositivos.
 
@@ -35,7 +42,7 @@
 
 ---
 
-## ⭐ Características Claves
+## Características Claves
 
 ✅ **Diseño Responsive** - Adaptado para móviles, tablets y escritorios  
 ✅ **Interfaz Moderna** - Estética contemporánea y profesional  
@@ -48,7 +55,7 @@
 
 ---
 
-## 🔧 Requisitos Previos
+## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener lo siguiente instalado:
 
@@ -65,7 +72,7 @@ git --version     # Para clonar el repositorio
 
 ---
 
-## 📥 Instalación
+## Instalación
 
 ### Opción 1: Clonar el Repositorio
 
@@ -120,7 +127,7 @@ http-server
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 pagina-web-jfrivas/
@@ -146,7 +153,7 @@ pagina-web-jfrivas/
 
 ---
 
-## 🚀 Uso
+## Uso
 
 ### Inicio Rápido
 
@@ -156,11 +163,9 @@ pagina-web-jfrivas/
 
 
 
-
-
 ---
 
-## 💻 Ejemplos de Código
+## Ejemplos de Código
 
 ### Estructura Base HTML
 
@@ -357,7 +362,7 @@ function mostrarDatos(datos) {
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 ### Personalizar Colores
 
@@ -395,11 +400,10 @@ Añade en `<head>` de `index.html`:
 ---
 
 
-```
 
 ---
 
-## 🤝 Agradecimientos
+## Agradecimientos
 
 Queremos expresar nuestro reconocimiento a:
 
@@ -417,7 +421,7 @@ Queremos expresar nuestro reconocimiento a:
 
 ---
 
-## 📞 Contacto
+## Contacto
 
 **Correo Electrónico:** (mailto:fredyrivas0714@gmail.com)  
 **GitHub:** (https://github.com/JFrivasIngCode)  
@@ -426,7 +430,7 @@ Queremos expresar nuestro reconocimiento a:
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Puedes usar este código libremente en tus proyectos personales y comerciales.
 
@@ -441,7 +445,7 @@ Para más detalles, consulta el archivo LICENSE
 
 ---
 
-## 📊 Estadísticas del Proyecto
+## Estadísticas del Proyecto
 
 - ⏱️ **Tiempo de Carga Promedio:** < 2 segundos
 - 📱 **Compatibilidad Móvil:** 100%
@@ -455,7 +459,9 @@ Para más detalles, consulta el archivo LICENSE
 
 ### ⭐ Si te gustó este proyecto, ¡dale una estrella en GitHub!
 
+
 **[⬆ Volver al inicio](#jfrivas--página-web-profesional)**
+
 
 ---
 
